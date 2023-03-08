@@ -9,7 +9,7 @@
         </ul>
     </li>
     <li>Windows Server 2016<ul dir="auto">
-            <li><a href="https://www.malikhudson.tech/projects/windows-server-2016">Getting to know Windows Server</a></li>
+            <li><a href="https://www.malikhudson.tech/projects/windows-server-2016">Windows Server Lab</a></li>
         </ul>
     </li>
 </ul>
