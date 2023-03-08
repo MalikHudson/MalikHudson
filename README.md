@@ -5,7 +5,7 @@
 <ul dir="auto">
     <li><strong>osTicket (Ticketing System)</strong>
         <ul dir="auto">
-            <li><a href="https://www.malikhudson.tech/projects/osticket">osTicket walkthrough</a></li>
+            <li><a href="https://github.com/MalikHudson/osTicket-walkthrough">osTicket walkthrough</a></li>
         </ul>
     </li>
     <li>Windows Server 2016<ul dir="auto">
