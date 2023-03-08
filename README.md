@@ -9,7 +9,7 @@
         </ul>
     </li>
     <li>Windows Server 2016<ul dir="auto">
-            <li><a href="https://github.com/MalikHudson/Windows-Server-20166">Windows Server Lab</a></li>
+            <li><a href="https://github.com/MalikHudson/Windows-Server-2016">Windows Server Lab</a></li>
         </ul>
     </li>
 </ul>
